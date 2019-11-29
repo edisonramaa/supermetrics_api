@@ -28,4 +28,4 @@ There are 4 query params that you can pass on to generate the stats:
 The solution also supports:
 #
 5. Total characters by week - yourhost.com?period=week&identifier=character&statOption=total
-6. Total characters by month - yourhost.com?period=month&identifier=month&statOption=total
+6. Total characters by month - yourhost.com?period=month&identifier=character&statOption=total
