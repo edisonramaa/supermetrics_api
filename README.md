@@ -19,7 +19,7 @@ There are 4 query params that you can pass on to generate the stats:
 ## To get the tasks data:
 
 1. Average character length of a post / month - yourhost.com?period=month&identifier=character&statOption=average
-2. Longest post by character length / month - yourhost.com?period=month&identifier=character&statOption=longest
+2. Longest post by character length / month - yourhost.com?period=month&identifier=post&statOption=longest
 3. Total posts split by week - yourhost.com?period=week&identifier=post&statOption=total
 4. Average number of posts per user / month - yourhost.com?period=month&identifier=post&statOption=average
 
