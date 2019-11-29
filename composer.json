@@ -1,0 +1,16 @@
+{
+    "require": {
+        "php": "^7.2.16",
+        "guzzlehttp/guzzle": "^6.4",
+        "karriere/json-decoder": "^2.2",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Client\\": "Client/",
+            "Services\\": "Services/",
+            "Config\\": "Config/",
+            "Models\\" : "Models/"
+        }
+    }
+}
