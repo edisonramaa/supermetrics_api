@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: Edison
@@ -7,6 +8,7 @@
  */
 
 namespace Services;
+
 use Services\Interfaces\IResponseService;
 
 /**
